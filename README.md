@@ -1,10 +1,10 @@
 # F.R.I.E.N.D.S. Trivia Game
 
-Click Here to Visit: [https://juliajyshin.github.io/Food-Ajax-Giphy/](https://juliajyshin.github.io/Food-Ajax-Giphy/)
+Click Here to Visit: [https://juliajyshin.github.io/TriviaGame/](https://juliajyshin.github.io/TriviaGame/)
 
 ## Project Description
 
-In this project I used the GIPHY API to make a dynamic web page that populates with gifs of food. I did this by calling the GIPHY API and using JavaScript and jQuery to change the HTML of my site. 
+In this game I used JavaScript for the logic and jQuery to manipulate HTML. The styling was done with CSS. 
 
 ![An image of the website](assets/img/trivia.png)
 
@@ -14,8 +14,6 @@ In this project I used the GIPHY API to make a dynamic web page that populates w
 * CSS
 * jQuery
 * JavaScript
-* API 
-* Ajax
 
 ## Author
 * https://github.com/juliajyshin
