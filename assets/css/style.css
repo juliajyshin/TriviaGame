@@ -7,6 +7,8 @@ body {
   line-height: 30px;
   color: #ffffff;
   background-image: url('http://www.simplybubbly.com/wp-content/uploads/2014/10/central-perk.jpg');
+  background-size: cover;
+  background-position: absolute;
 }
 
 ul {
@@ -48,3 +50,20 @@ h1 {
     text-align: center;
 }
 
+li {
+  color: #000000;
+  background-color: #fff;
+  opacity: 0.8;
+  width: 300px;
+  margin: auto;
+}
+
+.nextButton {
+  background-color: #ffffff;
+  width: 300px;
+  color: #000000;
+  margin: auto;
+  border-color: #000000;
+  border-style: solid;
+  border-width: 2px;
+}
